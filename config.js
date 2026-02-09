@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Напред ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Ще бъдеш ли моята Валентинка тази година и не само? 🤗🌹", // The big question!
-            yesBtn: "Ммдаа",                                             // Text for "Yes" button
-            noBtn: "Ще си помисля"                                                 // Text for "No" button
+            text: "Ще бъдеш ли моята Валентинка тази година? 🤗🌹", // The big question!
+            yesBtn: "Ммм ДАА",                                             // Text for "Yes" button
+            noBtn: "Ще си помисля.."                                                 // Text for "No" button
         }
     },
 
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Йеей Аз съм най-големия Щастливец! 🎉💝💖💝💓",
+        title: "Йееей Аз съм най-големия Щастливец! 🎉💝💖💝💓",
         message: "Ела и си вземи подаръка с голяяма прегръдка и целувкии!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -57,10 +57,10 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
+        backgroundStart: "#FCF5EE",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#FFC4C4",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#EE6983",     // Button color (should stand out against the background)
+        buttonHover: "#850E35",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
 
