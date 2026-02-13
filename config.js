@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Харесваш ли ме?",                                    // First interaction
+            text: "Ти харесваш ли ме?",                                    // First interaction
             yesBtn: "Да",                                             // Text for "Yes" button
             noBtn: "Не",                                               // Text for "No" button
             secretAnswer: "Не те харесвам, а те ОБИЧАМ! ❤️"           // Secret hover message
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Йееей Аз съм най-големия Щастливец! 🎉💝💖💝💓",
-        message: "Ела и си вземи подаръка с голяяма прегръдка и целувкии!",
+        message: "Ела и си вземи голяямата прегръдка и целувкии!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
